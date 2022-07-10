@@ -13,3 +13,4 @@ Programming Language Used
    - Pillow
    - Numpy
    - Js2Py
+   - climage
